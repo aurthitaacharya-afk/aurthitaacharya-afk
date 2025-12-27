@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Aurthita Acharya ,Cse Student .learning Java ,DSA and Git.
 
 <!--
 **aurthitaacharya-afk/aurthitaacharya-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
