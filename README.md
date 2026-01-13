@@ -1,6 +1,15 @@
 ## Hi there 👋
 I am Aurthita Acharya ,Cse Student .learning Java ,DSA and Git.
+## 🔭 About Me
+- 🌱 I'm currently learning **Web Development / Python / JavaScript**
+- 💻 I love building **projects, contributing to open source**, and learning new technologies.
+- 🎯 Goal: To become a **GSoC contributor** and grow as a developer.
 
+## 🛠 Skills
+- **Languages:** Python, JavaScript, Java, C 
+- **Frontend:** HTML, CSS, React  
+- **Backend / DB:** Node.js, MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code
 <!--
 **aurthitaacharya-afk/aurthitaacharya-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
