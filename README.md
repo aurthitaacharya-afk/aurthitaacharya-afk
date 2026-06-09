@@ -8,7 +8,7 @@ I am Aurthita Acharya ,Cse Student .learning Java ,DSA and Git.
 ## 🛠 Skills
 - **Languages:** Python, JavaScript, Java, C 
 - **Frontend:** HTML, CSS, React  
-- **Backend / DB:** Node.js, MySQL, MongoDB  
+- **Backend / DB:** Spring boot, MySQL, MongoDB  
 - **Tools:** Git, GitHub, VS Code
 <!--
 **aurthitaacharya-afk/aurthitaacharya-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
