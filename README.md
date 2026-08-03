@@ -6,8 +6,8 @@ I am Aurthita Acharya ,Cse Student .learning Java ,DSA and Git.
 - 🎯 Goal: To become a **GSoC contributor** and grow as a developer.
 
 ## 🛠 Skills
-- **Languages:** Python, JavaScript, Java, C 
-- **Frontend:** HTML, CSS, React  
+- **Languages:** Java, Python , C 
+- **Frontend:** HTML, CSS, React ,JavaScript
 - **Backend / DB:** Spring boot, MySQL, MongoDB  
 - **Tools:** Git, GitHub, VS Code
 <!--
